@@ -21,7 +21,7 @@ One good feature about the program is that whenever the shortcut it run, it chec
 
 ## Known 'errors'
 
-### WINDOWS
+### Windows
 
 - Since the code uses the http version of the repo to pull the code (this seems to make it work better for some reason), when executing, it will throw a warning, however this is nothing to worry about as it doesn't effect anything.
 - On the first run of the update script, it will give an error. However, it seems that after this, the error no longer shows and everything runs properly.
